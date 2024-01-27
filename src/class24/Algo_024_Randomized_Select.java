@@ -14,6 +14,7 @@ package class24;
  * 求无序数组中第k大或者第k小的数
  * 要求时间复杂度O(n)，额外空间复杂度O(1)
  * 算法导论9.2 证明其复杂度
+ * 补充 BFPRT算法
  */
 public class Algo_024_Randomized_Select {
 
