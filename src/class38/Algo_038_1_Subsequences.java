@@ -12,6 +12,7 @@ import java.util.HashSet;
  * @version 1.0
  */
 // https://www.nowcoder.com/practice/92e6247998294f2c933906fdedbc6e6a
+// 时间复杂度：O(2^n * n)
 public class Algo_038_1_Subsequences {
 
     // 生成所有子序列，但该题目要求去重

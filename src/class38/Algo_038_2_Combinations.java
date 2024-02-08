@@ -14,6 +14,7 @@ import java.util.List;
  * @version 1.0
  */
 // https://leetcode.com/problems/subsets-ii/description/
+// 时间复杂度：O(2^n * n)
 public class Algo_038_2_Combinations {
 
     public static List<List<Integer>> subsetsWithDup(int[] nums) {
